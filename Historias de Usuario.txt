@@ -1,0 +1,20 @@
+Historias de usuario proyecto App de compras tipo Amazon
+
+La aplicación a realizar es una app tipo Amazon; Mercado Libre o EBay, donde cualquiera pueda ver y comprar 
+los productos que allí se encuentran. Las siguientes son historias de usuario, las cuales tienen como finalidad 
+tener claro lo que los potenciales clientes les gustaría encontrar dentro de la app:
+
+1.	A mi como usuario me gustaría poder buscar, ver y filtrar los productos que se venden dentro
+de la app.
+
+2.	A mi como usuario me gustaría tener la opción de registrarme dentro de la app para poder
+realizar mis compras.
+
+3.	A mi como usuario me gustaría tener la opción de poder ver las compras que he hecho hasta el 
+momento en un carrito de compras.
+
+4.	A mi como usuario me gustaría que al momento de pagar todos los productos que he seleccionado 
+me dé la oportunidad de escoger el método de pago.
+
+5.	A mí como usuario me gustaría poder editar mi perfil dentro de la aplicación teniendo la 
+posibilidad de editar datos personales tales como; dirección, numero o correo electrónico.
